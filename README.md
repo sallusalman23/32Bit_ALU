@@ -179,7 +179,8 @@ Outputs: Simulation log file, waveforms for debugging
 Simulation allow to dump design and test bench signals into a waveform 
 
 Steps for simulation – Run the simulation command with simulator options
-![Screenshot 2024-10-21 112113](https://github.com/user-attachments/assets/4c85ab95-a520-4e2b-8f4b-36262e7f37e1)
+
+![Screenshot 2024-10-21 112238](https://github.com/user-attachments/assets/e8cd19f3-593a-4e07-95b6-5d65287dcae5)
 
 ## Fig 9: Design Browser window for simulation
 ![Screenshot 2024-10-21 112426](https://github.com/user-attachments/assets/a8659958-2d19-41ee-9907-5dfb544ce30e)
