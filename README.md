@@ -80,7 +80,7 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
-![Screenshot 2024-10-21 111610](https://github.com/user-attachments/assets/f21e9d0a-c041-47d5-9caa-07e54feceb70)
+![Screenshot 2024-10-23 104000](https://github.com/user-attachments/assets/9b9f4235-4881-4d26-82e8-962d13e6570c)
 
 ### Fig 4:cds.lib file Creation
 
@@ -128,7 +128,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
-![Screenshot 2024-10-21 111855](https://github.com/user-attachments/assets/c8d52ab9-dca5-4821-999a-62694d958756)
+
 ![Screenshot 2024-10-21 111855](https://github.com/user-attachments/assets/6cabd0d2-47ce-4ef6-9ec3-2ac68dd490fb)
 
 ### Fig 7: Compiled database in worklib
