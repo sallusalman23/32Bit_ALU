@@ -131,7 +131,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
-![WhatsApp Image 2024-11-24 at 11 27 43_ba79ad90](https://github.com/user-attachments/assets/00023df7-aa6e-4e98-badb-ff71aa401a6a)
+![Screenshot (73)](https://github.com/user-attachments/assets/cc499411-8388-42ac-8908-1b395d3d94e6)
 
 
 ### Fig 7: Compiled database in worklib
@@ -167,7 +167,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 5.It also establishes net connectivity and prepares all of this for simulation
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
-![WhatsApp Image 2024-11-24 at 11 27 43_bacd9105](https://github.com/user-attachments/assets/2ea30208-daef-4de5-9a79-f48a1fe2173b)
+![Screenshot (73)](https://github.com/user-attachments/assets/29e7547e-e63f-4389-b17b-126c2981057a)
 
 
 ## Fig 8: Elaboration Launch Option
@@ -183,7 +183,7 @@ Outputs: Simulation log file, waveforms for debugging
 Simulation allow to dump design and test bench signals into a waveform 
 
 Steps for simulation – Run the simulation command with simulator options
-![WhatsApp Image 2024-11-24 at 11 27 43_adb7a3b4](https://github.com/user-attachments/assets/eb6c4cac-e9ed-47e1-b029-22184d319934)
+![Screenshot (73)](https://github.com/user-attachments/assets/e7bc8288-01a4-45ea-9020-60108b5e04db)
 
 
 
